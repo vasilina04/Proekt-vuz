@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>691</width>
+    <height>717</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(173, 255, 255);
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>10</y>
+      <width>641</width>
+      <height>611</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; font-style:italic; text-decoration: underline;&quot;&gt;Правила приема в вузы.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Согласно приказу Министерства науки и высшего образования РФ от 21 августа 2020 г. N 1076 “Об утверждении Порядка приема на обучение по образовательным программам высшего образования - программам бакалавриата, программам специалитета, программам магистратуры” были составлены новые правила приема в вуз.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;1. Введена возможность проведения единого конкурса по нескольким родственным специальностям или направлениям подготовки в пределах укрупненной группы. Раньше конкурс можно было проводить только раздельно по каждой специальности или направлению подготовки.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Единый конкурс позволит отобрать наиболее подготовленных абитуриентов по широкому кругу образовательных программ (например, в целом на факультет вуза), а затем провести их профилизацию (специализацию) после 1-го или 2-го курса обучения.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;2. Вузы смогут устанавливать вступительные испытания по нескольким предметам по выбору абитуриентов. Например, вступительное испытание по физике и информатике. При этом абитуриент сможет представить результат ЕГЭ по физике или информатике по своему усмотрению.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Для вузов это означает увеличение числа абитуриентов для отбора лучших, для абитуриентов - расширение возможностей поступления с различным набором результатов ЕГЭ. Особенность данного нововведения востребовано при приеме на направления подготовки (специальности) в сфере информационных технологий.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;3. Вузы будут самостоятельно устанавливать вступительные испытания для абитуриентов, поступающих на базе среднего профессионального и высшего образования. Ранее перечень таких вступительных испытаний должен был, согласно общему правилу, совпадать со вступительными испытаниями лиц, поступающих на базе среднего общего образования.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;4. Вузы будут самостоятельно устанавливать максимальное количество специальностей и направлений подготовки, по которым абитуриент вправе участвовать в конкурсе - не менее 2 и не более 10 (ранее было установлено - не более 3 направлений подготовки и (или) специальностей).&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;5. Подача документов в электронной форме (наряду с представлением документов лично и по почте) становится обязательным способом для вузов. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;6. Устанавливается возможность для поступающих внести изменения в заявление о приеме или подать второе заявление о приеме (например, по другой специальности). Ранее это возможно было только при условии отзыва ранее поданного заявления о приеме.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;7. Конкурсные списки абитуриентов будут обновляться вузами ежедневно не менее 5 раз в день. Это позволит абитуриентам иметь актуальную информацию о конкурсной ситуации. Ранее предусматривалось обновление один раз в день.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;8. Упрощена процедура зачисления по программам бакалавриата и специалитета на бюджетные места по очной форме обучения. Зачисление будет проводиться в 2 этапа - этап приоритетного зачисления (зачисление абитуриентов без вступительных испытаний, абитуриентов, имеющих льготы и заключивших договоры о целевом обучении) и основной этап зачисления (до настоящего времени зачисление проводилось в 3 этапа, второй этап был разделен на первую и вторую &amp;quot;волны&amp;quot;). Таким образом, будет исключена громоздкость процедур зачисления.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;9. Если по итогам основного этапа зачисления остались незаполненные места (абитуриенты отказались от поступления), вузы смогут провести дополнительное зачисление абитуриентов на такие места на основании конкурсных списков. Ранее такой механизм отсутствовал, что приводило к ситуации, что даже после &amp;quot;второй волны&amp;quot; зачисления могли возникать незаполненные места, которые вузы не могли использовать для зачисления других абитуриентов из конкурсных списков.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;10. Информация о приеме, включая правила приема, размещается вузами на своих официальных сайтах в сети &amp;quot;Интернет&amp;quot; не позднее 1 ноября года, предшествующего году приема (ранее - не позднее 1 октября)&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;11.Абитуриент имеет право подать документы в 5 вузов.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;12. Обезличивание списков поступающих, исключение из списков фамилий абитуриентов.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;13. Расширен перечень индивидуальных достижений, которые могут засчитываться абитуриенту при поступлении в вуз. Так, например, вузы могут принимать сведения о спортивных достижениях, если это предусмотрено этими же вузами. Иными словами, университет сам решает, какие из достижений принимать: научные проект, участие и победы в соревнованиях или волонтерскую деятельность. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;14. Актуальную информацию о приёме вузы обязаны опубликовать не позднее 1 ноября.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="nazad">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>640</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nightclub BTN</family>
+      <pointsize>11</pointsize>
+      <weight>50</weight>
+      <italic>true</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0.875, x2:1, y2:0, stop:0.125 rgba(147, 214, 255, 255), stop:1 rgba(255, 255, 255, 255));
+color: rgb(122, 41, 163);</string>
+    </property>
+    <property name="text">
+     <string>Назад</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>691</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

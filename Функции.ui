@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>691</width>
+    <height>717</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(173, 255, 255);
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>651</width>
+      <height>621</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:18pt; font-weight:600; font-style:italic; text-decoration: underline;&quot;&gt;Функции профориентации&lt;/span&gt;&lt;span style=&quot; font-size:18pt; font-style:italic; text-decoration: underline;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Профориентационная работа включает в себя диагностическую, организационную, информационную и профилактическую функции.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Диагностическая функция:&lt;/span&gt;&lt;span style=&quot; font-size:16pt; color:#00005f;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Выявление: способностей и склонностей человека к тем или иным видам деятельности, положительных качеств личности, стремления и намерения учащегося при выборе профессии и дальнейшего обучения. &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Изучение познавательных интересов детей и взрослых.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Исследование влияния родителей и близких людей на выбор ребёнком профессии.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Определение адекватности оценки человеком своих достижений и успехов и их взаимосвязи с различными видами деятельности.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Организационная функция:&lt;/span&gt;&lt;span style=&quot; font-size:16pt; color:#00005f;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Организация культурно-досуговой и социально-значимой деятельности.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Организация передачи опыта и впечатлений от работающих специалистов.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Знакомство с многогранным и разнообразным миром профессий.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Помощь в самореализации и развитии заложенного природой потенциала.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Проведение разнообразных мероприятий по профориентации (знакомство с профессиями, экскурсии на предприятия, конкурсы и так далее).&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Информационная функция:&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Проведение информационных мероприятий и кампаний по вопросам получения образования, имеющихся специальностей в учебных учреждениях, правилам приёма и проходных баллов ЕГЭ и ГИА.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Информирование о текущей ситуации на рынке труда и планируемых переменах.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Профилактическая функция:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Уменьшение количества ошибок при выборе профессии.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Courier New'; font-size:16pt;&quot;&gt;o&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:16pt;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Предупреждение неправильного восприятия имеющихся на рынке труда профессий.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;Существует 4 основных направления профориентационной работы. Все они по-своему важны и для эффективной работы обычно используются комплексно.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Профессиональное информирование&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt; – знакомство людей с многообразием видов возможных профессий в современном обществе. Сбор, обработка и публикация информационных материалов о состоянии рынка труда и образовательных услуг, их перспективами развития. Также включает в себя информирование о формах профессий, требованиям к ним для будущих специалистов и возможностях профессионального роста.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Профессиональный подбор (профотбор)&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt; – определение степени соответствия и пригодности человека как профессионала к определённому рабочему месту или должности на основе должностных инструкций и нормативных требований.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Профессиональное консультирование&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt; – большое количество предлагаемых видов помощи человеку в профессиональном определении для принятия им самостоятельного, осознанного решения в непростом вопросе выбора профессии. Также помогает определить дальнейшие направления профессионального обучения и трудоустройства с учётом возможностей конкретного человека, его психологических и психофизиологических возможностей наряду с предъявляемыми требованиями рынка труда.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic; color:#00005f;&quot;&gt;Психологическая поддержка&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt; font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman,serif'; font-size:16pt;&quot;&gt;– диагностика и корректировка психического состояния человека, психологическое сопровождение его профессиональной деятельности. Помогает адаптироваться к имеющейся ситуации, повысить психологическую компетентность, снизить случаи профессионального выгорания и деформации специалистов.&lt;/span&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="nazad">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>640</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nightclub BTN</family>
+      <pointsize>11</pointsize>
+      <weight>50</weight>
+      <italic>true</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0.875, x2:1, y2:0, stop:0.125 rgba(147, 214, 255, 255), stop:1 rgba(255, 255, 255, 255));
+color: rgb(122, 41, 163);</string>
+    </property>
+    <property name="text">
+     <string>Назад</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>691</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
